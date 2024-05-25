@@ -28,6 +28,7 @@ This project provides a way to manage and use proxies in your Python scripts wit
 This script reads the proxies from `proxies.txt` and writes a randomly selected proxy to `current_proxy.txt` every 10 seconds.
 
 ```python
+# background_script.py
 import os
 import random
 import time
