@@ -125,7 +125,11 @@ Customization
     You can adjust the proxy selection interval by changing the time.sleep(10) line in background_script.py.
     Add more error handling as needed, especially for network requests in main_script.py.
 
-### License
-
-This project is open source and available under the MIT License.
+## Copyright
+- [VolkanSah on Github](https://github.com/volkansah)
+- [Developer Site](https://volkansah.github.io)
+- [Become a 'Sponsor'](https://github.com/sponsors/volkansah)
+- [Source of this resposerity](https://github.com/VolkanSah/intelligent-Proxy-Management-System)
+## License
+This project is licensed under the MIT 
 
