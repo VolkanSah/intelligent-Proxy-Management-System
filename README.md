@@ -1,6 +1,6 @@
 # Proxy-Management-System
 ##### Rebuild 2024/05
-A cool intelligent Proxy Management System for your Python scripts SecurityAdmins.
+A cool intelligent Proxy Management System for your Python scripts as SecurityAdmin / Hacker / Wardriver 
 
 This project provides a way to manage and use proxies in your Python scripts without having to modify each script individually. It consists of a background script that selects a proxy from a list and saves it to a file, and a helper module that your scripts can use to retrieve the current proxy.
 
