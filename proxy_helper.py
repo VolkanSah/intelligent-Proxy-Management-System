@@ -1,7 +1,7 @@
 # proxy_helper.py
 def get_current_proxy():
     try:
-        with open('current_proxy.txt', 'r') as file:
+        with open('proxies.txt', 'r') as file:
             proxy = file.read().strip()
         return proxy
     except FileNotFoundError:
