@@ -9,7 +9,7 @@ This project provides a way to manage and use proxies in your Python scripts wit
 1. **`background_script.py`**: A script that runs in the background, selecting a random proxy from a list every few seconds.
 2. **`proxy_helper.py`**: A module that provides functions to retrieve the current proxy.
 3. **`main_script.py`**: An example script that demonstrates how to use the proxy helper module.
-4. **`proxies.txt`**: A text file containing a list of proxies in the `ip:port` format.
+4. **`proxies.txt`**: A text file containing a list of proxies in the `ip:port` format. ( need free Proxis? -> [have a look on this rep](https://github.com/VolkanSah/Auto-Proxy-Fetcher/) )
 
 ## Setup
 
