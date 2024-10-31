@@ -1,4 +1,4 @@
-# intelligent Proxy Management System  (PMS - lol)
+# Intelligent Proxy Management System  (PMS - lol)
 ##### Rebuild 2024/05
 A cool intelligent Proxy Management System for your Python scripts as SecurityAdmin / Hacker / Wardriver 
 
